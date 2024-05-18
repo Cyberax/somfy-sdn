@@ -1,0 +1,10 @@
+{
+  "domain": "somfy_sdn",
+  "version": "1.0.1",
+  "name": "Somfy SDN",
+  "codeowners": ["@Cyberax"],
+  "config_flow": false,
+  "documentation": "https://www.home-assistant.io/integrations/somfy_sdn",
+  "iot_class": "local_polling",
+  "requirements": ["python-somfy==1.2.0"]
+}
